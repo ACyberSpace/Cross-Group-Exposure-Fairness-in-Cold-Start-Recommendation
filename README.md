@@ -44,5 +44,7 @@ run XFair-Rec on **Movielens-1M** dataset:
 * If you want to run your own models on the datasets we offer, you should go to `model.py`, and implement a model inherited from `BasicModel`.  Then register it in `register.py`.
 * If you want to run your own sampling methods on the datasets and models we offer, you should go to `Procedure.py`, and implement a function. Then modify the corresponding code in `main.py`
 
- 
+## Project Statement:
+Owner：Jun Tang
+Institution：School of Cyberspace Security, Jinan University
 
