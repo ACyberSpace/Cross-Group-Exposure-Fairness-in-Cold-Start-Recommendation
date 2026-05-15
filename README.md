@@ -46,5 +46,6 @@ run XFair-Rec on **Movielens-1M** dataset:
 
 ## Project Statement:
 Owner：Jun Tang
+
 Institution：School of Cyberspace Security, Jinan University
 
